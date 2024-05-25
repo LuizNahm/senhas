@@ -29,3 +29,8 @@ body{
     .cadeado{
     height: 30px;
     }
+    .conteudo-titulo{
+        text-align: center;}
+        *{
+            font-weight: 400;
+            }
